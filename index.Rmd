@@ -1,0 +1,89 @@
+---
+title: ""
+description: ""
+site: distill::distill_website
+---
+
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+/>
+
+```{css, echo = FALSE}
+
+
+.profile-pic {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 10px;
+}
+
+d-title {
+    display: none;
+    }
+    
+.contact-buttons .btn {
+  color: #6da444 !important;                
+  text-decoration: none !important;          
+  padding: 2px 2px;            
+  font-size: 18px;              
+  font-weight: bold;            
+  margin-right: 10px;          
+  display: inline-flex;          
+  align-items: center;           
+  gap: 8px;                     
+  transition: background-color 0.3s ease, transform 0.2s ease;
+   border: 2px;
+}
+.contact-buttons .btn:hover {
+  transform: translateY(-2px);  
+}
+
+.full-width-table-wrapper {
+  width: 100vw;          /* full viewport width */
+  margin-left: calc(-50vw + 50%); /* escape container padding */
+}
+
+.full-width-table {
+  width: 90%;            
+  max-width: 1200px;     
+  margin: 0 auto;        
+  border-collapse: collapse;
+}
+
+/* Optional: reduce cell padding */
+.full-width-table td {
+  padding: 5px; /* smaller padding */
+  vertical-align: top;
+}
+
+```
+
+<br> <br> <br>
+
+<center>
+<img src="images/sdimakis.jpeg" alt="Sarah Dimakis" style="border-radius:50%; width:200px; height:200px; object-fit:cover;"/>
+
+<div class="contact-buttons">
+  <a href="mailto:sdimakis@uoregon.edu" class="btn">
+    <i class="fas fa-envelope"></i>
+</a>
+  <a href="https://www.goodreads.com/review/list/68649668-sarah-dimakis?shelf=read" target="_blank" class="btn">
+    <i class="fab fa-goodreads"></i>
+  </a>
+  <a href="pets.html" target="_blank" class="btn">
+  <i class="fas fa-dog"></i>
+  </a>
+
+</div>
+
+</center>
+
+<div style="text-align: justify;">
+
+Hello! My name is Sarah Dimakis, and I'm an Assistant Teaching Professor at the University of Oregon in the Department of Psychology. I currently teach classes in psychology's core research methods sequence (PSY 301 - 303), social psychology (PSY 306), personality psychology (PSY 307), and moral psychology (PSY 410). I completed my M.S. in 2020 and Ph.D. in 2024 in social psychology from the University of Oregon (go ducks!!), and my B.A. in psychology and mathematics from Hamilton College in 2017. I created this website as a resource for students who are considering taking one of my classes, so you can get a sense of my teaching style and philosophy, the most recent syllabus, assignment and participation expectations, and the topics each course will cover. You can expect the assignments and topics to change a little from term to term, especially as I integrate student feedback into my courses. If you've already taken a course with me, it’s a place for students to find extra resources (in development) and guidance on requesting a letter of recommendation.
+
+</div>
