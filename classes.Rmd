@@ -101,11 +101,11 @@ PSY306: Social Psychology
 Social psychology is the scientific study of how people think about, influence, and interact with real or imagined others. In this course, you'll develop a deeper understanding of the forces that shape your own social behavior and the behavior of those around you. Together, we will explore questions like: How important are first impressions? Do opposites really attract? Why do some couples stay together, and others split? How do companies convince us to buy their products? Why do we sometimes conform to the majority, even when we know it's wrong? And why do we sometimes fail to help those in need? The course is divided into three units. The first unit explores how we think and feel about others, covering  topics like impression formation, behavioral attribution, stereotyping, prejudice, and attraction. The second unit examines how we influence others, focusing on social facilitation and inhibition, persuasion, conformity, and obedience to authority. Finally, the third unit covers how we interact with others, addressing topics like close relationships, helping, altruism, aggression, and morality.
 
 
-<a href="https://sdimakis.github.io/Winter%202025%20PSY306%20TR%20Syllabus.pdf"
+<a href="https://sdimakis.github.io/W26_Social_Psychology.pdf"
    target="_blank"
    class="btn"
    style="color: #30188f; border-color: black;">
-  <i class="fa-solid fa-file-lines"></i> Winter 2025 Syllabus
+  <i class="fa-solid fa-file-lines"></i> Winter 2026 Syllabus
 </a>
 
 <hr> 
@@ -138,7 +138,7 @@ PSY410: Moral Psychology
 
 Moral psychology is the scientific study of how we determine right from wrong, act or fail to act on those standards, judge and punish others for their moral transgressions, and throughout, maintain that we personally are good, even when our actions suggest otherwise. In this course, we will talk about some of the greatest human acts and the most depraved. We will seek to understand those who see the world differently from us and deepen our understanding of ourselves. This course explores topics such as moral licensing and hypocrisy, egoism and altruism, empathy and its limits, blame and moral responsibility, the role of intuition versus reason in moral judgment, moral character evaluation, and moral understanding. There are many ways to approach the study of moral psychology. This course draws most heavily from insights from social psychology research, and therefore most topics covered pertain to morality within social contexts, e.g., thinking about, reacting to, influencing, and judging the (im)moral behavior and character of others. However, the course is interdisciplinary by nature, drawing from ideas and research from philosophy, behavioral economics, cognitive psychology, personality psychology, developmental psychology, neuroscience, biology, and other social science fields.
   
-<a href="https://sdimakis.github.io/W26_Moral_Psychology_2pm"
+<a href="https://sdimakis.github.io/W26_Moral_Psychology_2pm.pdf"
    target="_blank"
    class="btn"
    style="color: #8C9CB6; border-color: black;">
