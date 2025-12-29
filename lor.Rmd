@@ -7,32 +7,30 @@ site: distill::distill_website
 ```{css, echo = FALSE}
 
     
-d-article h2{
-    display: none !important;
-    }
-    
-.btn {
-  color: #6da444 !important;                
-  text-decoration: none !important;          
-  padding: 2px 2px;            
-  font-size: 18px;              
-  font-weight: bold;            
-  margin-right: 10px;          
-  display: inline-flex;          
-  align-items: center;           
-  gap: 8px;                     
-  transition: background-color 0.3s ease, transform 0.2s ease;
-   border: 2px;
-}
-.btn:hover {
-  transform: translateY(-2px); 
-  text-decoration: none !important; 
-  border: 1px;
-}
-
 d-title {
     display: none;
     }
+    
+d-article h2 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -3em;
+    margin-right: 0;
+}
+
+d-article h3 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -5em;
+    margin-right: 0;
+}
+d-article p, d-article ul, d-article blockquote {
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -6em;
+    margin-right: 0;
+    width: 135%;
+}
     
 
 ```
@@ -42,24 +40,18 @@ d-title {
 <br> <br>
 
 
-# Letters of Recommendation
+## Letters of Recommendation
 
 I often write letters of recommendation and serve as academic references for tutoring positions, research assistant roles, peer lab leaders, university scholarships, and graduate school applications. Please keep in mind that I teach around 250 - 450 students every term. Because of this, I generally cannot write letters or serve as references for students I have only interacted with in a large lecture setting, as I probably don't know you well enough to provide a personalized letter. I am more flexible about serving as a reference for psychology department positions like tutoring, research lab, and peer lab positions, but it can harm your graduate school application to have a letter from someone who doesn't know you very well.
 
 I write the strongest letters for students who have participated a lot (and meaningfully) in multiple of my classes and have come to my office hours to talk more deeply about course content. Depending on the position or program, receiving an "A" (or even an "A+") in one or more of my courses may not be sufficient (and it's also not required) for me to write a strong letter for you. When you request a letter from me, I might ask to meet you in my office hours if I'm not sure if I know you well enough. I interact with at least a thousand students every year, so any identifying information you can give to jog my memory about our past interactions the better (especially if it's been a while since you've been in my class). I reject requests when I think my letter will weaken your application. If you're not sure whether I can write you a strong letter, coming to my office hours and talking about it with me is usually a good start. Once we've determined that I'm a good person to write you a letter or serve as a reference, please e-mail me the following:
 
 - The application deadline(s) (this must be at least 2 weeks away from the date of your request)
-
 - A description of the position or program you're applying to (for graduate school, please include a list of all schools you're applying to and what the program is for, e.g., social work; you can skip the description if it's for a position within the psych department like peer lab leader) 
-
 - A statement of purpose explaining why you're applying to the program or position (for graduate school this could be a draft of your essay; for other positions, this could just be a couple sentences)
-
 - Why you think you've demonstrated to me the skills you'll need for the position or program you're applying to (e.g., content knowledge, resiliency, empathy). For example, "I demonstrated X in your class when..."
-
 - An unofficial transcript (for graduate school only)
-
 - Your CV or resume (for graduate school only)
-
 - The name of the research professor(s) who has supervised your research and/ or list of your research publications (for PhD graduate school only)
 
 </div>

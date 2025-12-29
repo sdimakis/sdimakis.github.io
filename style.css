@@ -11,14 +11,16 @@ h2{font-family: 'Crimson Text', serif;}
 .distill-site-nav {
     color: rgb(0 0 0 / 80%);
     background-color: #6da444;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
-    padding: 15px;
+    padding: 14px;
 }
 
 .algolia-autocomplete {
     display: none;
 }
+
+
 
 a {
   text-decoration: none;
@@ -51,4 +53,6 @@ a:hover{
 .distill-site-header .title {
     display: none;
 }
+
+
 

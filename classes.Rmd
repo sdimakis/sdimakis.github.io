@@ -42,6 +42,17 @@ d-title {
     display: none;
     }
     
+    
+
+d-article p, d-article ul, d-article ol, d-article blockquote {
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -2em;
+    margin-right: 0;
+    width: 110%;
+}
+
+
 
 ```
 

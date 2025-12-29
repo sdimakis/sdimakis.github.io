@@ -1,21 +1,58 @@
 ---
 title: "Frequently Asked Questions"
-subtitle: "Also, questions I wish students would ask..."
 description: ""
 site: distill::distill_website
 ---
 
-# Registration Questions
+
+```{css, echo = FALSE}
+d-title {
+    display: none;
+    }
+    
+d-article h2 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -3em;
+    margin-right: 0;
+}
+
+d-article h3 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -5em;
+    margin-right: 0;
+}
+d-article p, d-article ul, d-article blockquote {
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -6em;
+    margin-right: 0;
+    width: 135%;
+}
+
+
+
+```
+
+
+<div style="text-align: justify;">
+
+
+<br> <br>
+
+
+## Registration Questions
 
 ### How do I get into your (full) class?
 
 Psychology advising holds back seats in the initial registration period, so there's a good chance that the "full" class you see on DuckWeb isn't actually full. Depending on the class size, there could be 5, or 25, or more unfilled seats that will eventually be added. Psych advising waits for classes to fill and then gives out the rest of these seats based on need. Their waitlist will rank graduating seniors first and anyone that needs a particular course in order to progress through the major. Professors don't interfere with this process (even if we could) because it would be unfair to other students who need to be in the class or won't have another opportunity to take it. You can e-mail psychology advising to get on the waitlist for any psychology courses (psyugadvisors@uoregon.edu) or drop into their [advising hours](https://blogs.uoregon.edu/psychologyresources/human-subjects-pool/drop-in-advising-schedule/) on the second floor of Straub.
 
-# Research Questions
+## Research Questions
 
 ### Can I apply to be a research assistant in your lab?
 
-I'm a teaching professor, so I don't have a research lab. Professors (with titles assistant professor, associate professor, and professor) typically teach 2 - 3 undergraduate classes per year and run a research lab with graduate students, whereas teaching professors typically teach 9 classes per year and focus on developing curriculum instead of research. If you're interested in social and personality psychology, you might be interested in joining: 
+I'm a teaching professor, so I don't have a research lab. Professors (with titles assistant professor, associate professor, and professor) typically teach 2 - 3 undergraduate (and a graduate) classes per year and run a research lab with graduate students, whereas teaching professors typically teach 9 undergraduate classes per year and focus on developing curriculum instead of research. If you're interested in social and personality psychology, you might be interested in joining: 
 
 - Dr. Sara Hodges's [Social Cognition Lab](https://socialcognitionlab.uoregon.edu/)
 - Dr. Chanel Meyers and Dr. Curtis Phills's [Diversity & Social Cognition Lab](https://www.diversitysocialcoglab.com/join-us)
@@ -28,7 +65,7 @@ Most of the lab websites have an apply section with an application, and they hir
 
 This process is highly competitive, but I strongly recommend joining a lab if you can because it'll really bring to life what you're learning in your classes. It’s also a great way to explore whether research is something you want to pursue as a career. Research experience is typically a non-negotiable if you plan to pursue a PhD in psychology.
 
-# Graduate School Questions
+## Graduate School Questions
 
 ### Will you write me a letter of recommendation?
 
@@ -50,16 +87,13 @@ PhD programs are extremely competitive and more akin to a getting a job (most pa
 
 This is very common path for a psychology major. I didn't personally go to graduate school to study clinical or counseling psychology (I studied social psychology), but here are some resources that I hear are helpful.
 
-- [Psychology advising drop in hours](https://blogs.uoregon.edu/psychologyresources/human-subjects-pool/drop-in-advising-schedule/) -- it'll be most helpful to talk with graduate students or faculty members who have "clinical" research interests in their directory profile
-
-- [Mitch Prinstein's Graduate School Advice](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf) -- contains a really helpful description of the different mental health fields beyond just clinical psychology (free)
-
+- [Psychology advising drop in hours](https://blogs.uoregon.edu/psychologyresources/human-subjects-pool/drop-in-advising-schedule/) -- look for graduate students or faculty with "clinical" research interests
+- [Mitch Prinstein's Graduate School Advice](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf) -- helpful descriptions of the different mental health fields and degrees 
+- [Getting into grad school](https://www.clinicalpsychphd.com/home) -- example personal statements and CVs
 - [Insider's guide to graduate programs in clinical and counseling psychology](https://www.guilford.com/books/Insiders-Guide-Graduate-Programs-Clinical-Counseling-Psychology/Norcross-Sayette/9781462563029?srsltid=AfmBOoqp4-Q4YJEb7oXkJDVZnnM6QJ9Uy45fiFBcrZRzECkGjc74cRIa) by John Norcross & Michael Sayette (not free)
 
-- [Getting into grad school](https://www.clinicalpsychphd.com/home) -- example personal statements and CVs
 
-
-# Teaching Philosophy & Course Design Questions
+## Teaching Philosophy & Course Design Questions
 
 ### How fast can I expect you to get back to me if I e-mail you?
 
@@ -81,7 +115,7 @@ It makes me and other students uncomfortable to be monitored like that. It makes
 
 Projects can be really fun, but they can also be extremely frustrating and daunting, depending on your group and your capacity to meet outside of class hours. Many students work part or full time, are in clubs or sports teams with demanding time requirements, or have caretaker responsibilities outside of class. I also think grading on groupwork is unfair. Grades should be based on the extent to which an individual student met the learning objectives of the course, not based on who they happen to get in their group. I do always hope and encourage students to meet others in my classes, learn from each other in in-class discussions, and work on assignments together, but I don't think students should be forced to do so.
 
-# Personal Questions
+## Personal Questions
 
 ### Do you have any hobbies?
 

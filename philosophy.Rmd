@@ -9,10 +9,7 @@ site: distill::distill_website
 
 ```{css, echo = FALSE}
 
-    
-d-article h2{
-    display: none !important;
-    }
+ 
     
 .btn {
   color: #6da444 !important;                
@@ -36,13 +33,36 @@ d-article h2{
 d-title {
     display: none;
     }
+
+h1 {
+margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -3em;
+    margin-right: 0;
+    width: 135%;
+}
+d-article p, d-article ul, d-article ol, d-article blockquote {
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -6em;
+    margin-right: 0;
+    width: 135%;
+}
+
+d-article h2 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: -3em;
+    margin-right: 0;
+}
+
     
 
 ```
 
 <br> <br>
 
-# Teaching Philosophy
+## Teaching Philosophy
 
 My role as a psychology teacher is to curate and clearly articulate what scientists currently understand about the human mind and behavior and to channel students’ natural curiosity and enthusiasm as they begin to engage with and contribute to that developing body of knowledge. I mostly teach large (~100-150 students per section) 300-level undergraduate courses, where my primary goal is to ensure that students retain the foundational knowledge and skills necessary to succeed in their future specialized coursework. Once students fully understand core psychological theories, methods, and findings, they are well equipped to challenge widely held assumptions about their own minds and behaviors, engage critically with published research, and seek empirically grounded answers to the questions they care most deeply about. I teach psychology because I believe learning about psychology research makes us wiser consumers of information, and teaches us how to live a happy and satisfying life.
 
@@ -55,7 +75,7 @@ Starting Winter 2026, I am no longer grading attendance for my 300-level classes
 Regardless of the subject matter, I will always ensure the following three elements occur in my classroom: 
 
 
-# Application 
+# Applying Theory
 
 *“Tell me and I forget, teach me and I may remember, involve me and I learn.”* - Xun Kuang
 
@@ -67,7 +87,7 @@ The purpose of a psychology education should not be to memorize a set of related
 
 One of the most concerning issues of our time is the widespread proliferation of false and misleading information. An educated person must be able to assess the validity of claims and evaluate the strength of the evidence supporting them. A psychology education provides an ideal context for developing these skills. A key part of engaging with scientific research is learning when to agree with and when to question its conclusions. When I teach scientific thinking, students learn that studying methodology gives them the tools to critically evaluate scientific work. Students complete assignments that guide them through critiques of empirical studies and their coverage in the media. We examine why research often fails to replicate, and how scientists have evolved practices and safeguards to increase the rigor of their work. This approach helps students critically evaluate scientific findings and recognize that science is a self-correcting process that produces stable conclusions over time. In my social and moral psychology classes, I often ask students to question their widely held assumptions and beliefs when they conflict with psychological research. For example, students discuss the surprising evidence that empathy can sometimes harm our moral judgment, or that people tend to conform to others they know are wrong.
 
-# Inclusivity
+# Classroom Environment 
 
 *“People will forget what you said. People will forget what you did. But people will never forget how you made them feel.”* – Maya Angelou
 
