@@ -46,22 +46,21 @@ d-article p, d-article ul, d-article blockquote {
 
 ### How do I get into your (full) class?
 
-Psychology advising holds back seats in the initial registration period, so there's a good chance that the "full" class you see on DuckWeb isn't actually full. Depending on the class size, there could be 5, or 25, or more unfilled seats that will eventually be added. Psych advising waits for classes to fill and then gives out the rest of these seats based on need. Their waitlist will rank graduating seniors first and anyone that needs a particular course in order to progress through the major. Professors don't interfere with this process (even if we could) because it would be unfair to other students who need to be in the class or won't have another opportunity to take it. You can e-mail psychology advising to get on the waitlist for any psychology courses (psyugadvisors@uoregon.edu) or drop into their [advising hours](https://blogs.uoregon.edu/psychologyresources/human-subjects-pool/drop-in-advising-schedule/) on the second floor of Straub.
+Psychology advising holds back seats in the initial registration period, so there's a good chance that the "full" class you see on DuckWeb isn't actually full. Depending on the class size, there could be 5, or 25, or more unfilled seats that will eventually be added. Psych advising waits for classes to fill and then gives out the rest of these seats based on need. Their waitlist will rank graduating seniors first and anyone that needs a particular course in order to progress through the major. Professors don't interfere with this process (even if we could) because it would be unfair to other students who need to be in the class or won't have another opportunity to take it. You can e-mail psychology advising to get on the waitlist for psychology courses (psyugadvisors@uoregon.edu) or drop into their [advising hours](https://blogs.uoregon.edu/psychologyresources/human-subjects-pool/drop-in-advising-schedule/) on the second floor of Straub.
 
 ## Research Questions
 
 ### Can I apply to be a research assistant in your lab?
 
-I'm a teaching professor, so I don't have a research lab. Professors (with titles assistant professor, associate professor, and professor) typically teach 2 - 3 undergraduate (+ graduate) classes per year and run a research lab with graduate students, whereas teaching professors typically teach 9 undergraduate classes per year and focus on developing curriculum instead of research. If you're interested in social and personality psychology, you might be interested in joining: 
+I'm a teaching professor, so I don't have a research lab. Psychology professors (with titles assistant professor, associate professor, and professor) typically teach 2 - 3 undergraduate (+ 1 graduate or seminar) classes per year and run a research lab with graduate students, whereas psychology teaching professors typically teach 9 undergraduate classes per year and focus on developing curriculum instead of research. If you're interested in social and personality psychology, you might be interested in joining: 
 
 - Dr. Sara Hodges's [Social Cognition Lab](https://socialcognitionlab.uoregon.edu/)
 - Dr. Chanel Meyers and Dr. Curtis Phills's [Diversity & Social Cognition Lab](https://www.diversitysocialcoglab.com/join-us)
-- Dr. Sara Weston's [Personality is Everywhere Lab](https://pielab.uoregon.edu/)
 - Dr. Ellen Peters's [Cognitive and Affective Influences in Decision Making Lab](https://www.caidelab.com/)
 - Dr. Rob Chavez's [Computational Social Neuroscience Lab](https://csnl.uoregon.edu/)
 - Dr. Elliot Berkman's [Social & Affective Neuroscience Lab](https://sanlab.uoregon.edu/)
 
-Most of the lab websites have an apply section with an application, and they hire on an as need basis (usually to start at the beginning of a new term for course credit). [Psychology advising](https://naturalsciences.uoregon.edu/psychology/undergraduate-programs/dept-advising) also may know which labs are actively searching for research assistants. If you have interests in other psychology subfields like clinical, cognitive, or developmental psychology, you can search the [faculty directory](https://cas.uoregon.edu/directory/psychology-faculty?page=0) for professors with interests that align with yours. Clicking on their name will usually bring up more information including their lab website if they have one. 
+Many of the lab websites have an apply section with an application, and they hire on an as need basis (usually to start at the beginning of a new term for course credit). [Psychology advising](https://naturalsciences.uoregon.edu/psychology/undergraduate-programs/dept-advising) also may know which labs are actively searching for research assistants. If you have interests in other psychology subfields like clinical, cognitive, or developmental psychology, you can search the [faculty directory](https://cas.uoregon.edu/directory/psychology-faculty?page=0) for professors with interests that align with yours. Clicking on their name will usually bring up more information including their lab website if they have one. 
 
 This process is very competitive, but I strongly recommend joining a lab if you can because it'll really bring to life what you're learning in your classes. It’s also a great way to explore whether research is something you want to pursue as a career. Research experience is typically a non-negotiable if you plan to pursue a PhD in psychology.
 
@@ -69,15 +68,15 @@ This process is very competitive, but I strongly recommend joining a lab if you 
 
 ### Will you write me a letter of recommendation?
 
-Probably. See my LOR tab on this website for information about how I go about that process.
+See the [LOR tab on this website](https://sdimakis.github.io/lor.html) for a detailed explanation of my reference letter process. 
 
 ### What do I need to do to get a strong letter of recommendation from you?
 
-Sit in the first three rows in class. Come to class consistently and raise your hand when I ask questions. If you don't feel comfortable talking in front of the whole class, you can always come up after class to ask questions or make insightful comments about the lecture that demonstrate to me that you were actively engaged and thinking deeply about it. Take more than one class with me, preferably over several terms. Definitely take my moral psychology course, because there's only 50 seats in that one. Remind me your name and how we've met before, if it seems like I forgot (my embarrassment will ensure that I don't forget again). Come to office hours to talk to me about your goals. To talk to me about your assignments. To talk to me about what you're taking from the course. I'd love to get to know you as a person, and not just as your grades, and this will make for a far better letter.
+Please keep in mind that I teach around 250 - 450 students every term, which means I have a ton of former students requesting letters. If you're in a large lecture with me, I recommend that you sit in the first row in class, come to class consistently, and raise your hand when I ask questions. If you don't feel comfortable talking in front of the whole class, you can always come up after class to ask questions or make comments about the lecture or course content that demonstrates to me that you were actively engaged and thinking deeply about it. Take more than one class with me, preferably over several terms, so we can get to know each other over time. Definitely take my moral psychology course, because there's only 50 students in that class, and it's a discussion heavy class. When we interact, remind me your name and how we've met before. Come to office hours to talk to me about your goals. To talk to me about your assignments. To talk to me about what you're taking from the course. I'd love to get to know you as a person, beyond the work you produce in the classes, and this will make for a far better letter.
 
 ### Should I go to graduate school?
 
-I recommend going to graduate school if you have a clear idea of what job you'd like to have after school, have researched and talked with (or listened to) multiple people talking about their experiences with that job, and that job aligns with your most closely held values. And, graduate school is necessary for the job you want. Graduate school is a huge decision, and you don't have to make it right now. Gap years are very normal. I took one year between undergrad and grad school, and many take longer... like 5 - 10 years, or some even come back after having a first career. I don't typically recommend going to graduate school because you want to learn more psychology (or figure out more about what you're interested in). There are a lot of ways to learn more psychology without paying to get an unnecessary degree.
+I recommend going to graduate school only if you have a clear idea of the job you would like to pursue afterward, have researched and talked with (or listened to) multiple people about their experiences with that job (the good AND the bad), that job aligns with your interests, skills, and values, and graduate school is necessary to get hired in the profession. Graduate school is a major commitment, and it's not a decision that needs to be made immediately. Taking a gap year is very common. I took a year between undergraduate and graduate school, and many people wait much longer, sometimes five to ten years, while others return to school after an entirely different first career. I don't recommend graduate school if your primary reason is that you want to learn more psychology (or figure out more about what you're interested in). There are a lot of ways to learn more psychology (including many accessible [books](https://www.goodreads.com/review/list/68649668-sarah-dimakis?shelf=read), podcasts, and online lectures by researchers) without incurring the financial costs or opportunity costs associated with pursuing an unnecessary degree.
 
 ### How do I get into graduate school for a PhD in social psychology?
 
@@ -95,21 +94,17 @@ This is very common path for a psychology major. I didn't personally go to gradu
 
 ## Teaching Philosophy & Course Design Questions
 
-### How fast can I expect you to get back to me if I e-mail you?
-
-I usually check my e-mail every 3 hours or so during work hours (unless I am actively teaching), and assess if it seems like it's time sensitive and easy to respond to (like you seem particularly anxious about something and need reassurance) or if it needs to wait until I'm back at my computer. I usually get about 50 - 100 e-mails from students per week, and sometimes more during class registration, graduate school application, or exam time. Please give me at least 6 - 12 hours to get to your e-mail, especially if I need to figure out what you're talking about and what class of mine you're even in (or were in). I am hopefully not responding this quickly if it's a holiday, or the weekend. Sometimes I do but sometimes (hopefully) I'm spending time with my family or friends. Sometimes it can take me longer to respond to letter of recommendation requests because I have to look up information about you to see if I would be a good fit to write your letter.  
-
 ### What advice do you have for a student who got a grade they're unhappy with?
 
-College gives us the chance to try new things, fail, accept those failures, take responsibility, and learn from them in a low-stakes environment. Failure often reveals more about what's most important to us in life than success does. It can be an important wake up call that our goals are actually in misalignment with our values or strengths. It can mean that you have a lot going on right now, or that you made a very normal very human mistake like forgetting to study a certain section or misread the instructions. Your grades are not always going to fully reflect what you're capable of achieving, and that's okay. Learning to respond to and accept failure in a graceful way is one of the best lessons you could possibly learn in college, and people who never fail unfortunately never learn that lesson. That being said, in my classes, if you really do feel like you were unfairly assessed on something, please let me know and we can talk about it, and especially if you disagree with a grade from a graduate student TA.
+College gives us the chance to try new things, fail, accept those failures, take responsibility, and learn from them in a low-stakes environment. Failure often teaches us more about ourselves than success does. Sometimes failure reveals that our goals are not aligned with our values, interests, or strengths. Other times, it reflects the reality that we have competing priorities and school can't (and shouldn't) always be our top one. Sometimes failure is the result of a very normal human mistake, such as forgetting to study a particular topic or misunderstanding an assignment. Your grades (and generally, any outcome in life) will not always fully reflect your abilities or potential, and learning to come to terms with this is extremely valuable for your well-being. In my view, one of the most valuable lessons college can teach is how to respond to setbacks with grace and resilience. Unfortunately, people who never experience failure often miss the opportunity to develop those skills. In my view, students who challenge themselves will inevitably encounter failure and setbacks towards their goals. I certainly did. I didn't earn straight A's because I often chose courses that interested me, requiring skills I was weak at but wanted to develop (like public speaking), even when I wasn't sure I would excel in them. What mattered more to me was the opportunity to learn and grow. I never want students to be afraid of trying something new because they might fail. 
 
-### Why aren't you grading attendence anymore in your large lecture classes?
+### Why aren't you grading attendance anymore in your large lecture classes?
 
-I want to grade students on the extent to which they meet the learning objectives, and coming to class to engage with other students is one way to demonstrate that you've met my objective to communicate about the content. When someone asks a question or makes an insightful comment in class, the entire class benefits, and we all learn a little more deeply for it. I wish I could award course credit for that, but it's not really practical. I also think it's too subjective. In the past, I've relied on iClicker to take attendance (a poor but easy and objective indicator of engagement), but it's becoming increasingly unreliable and expensive. It's also very time consuming to grade and respond to e-mails about. I'd rather spend my time making sure class is worth going to than policing whether students are there. I do really appreciate students who thoughtfully answer questions in class, and they are rewarded with (generally) better grades for less effort, and glowing letters of recommendation from me. So I think it's a fair trade-off.
+I want to grade students on the extent to which they meet the learning objectives, and coming to class to engage with other students is one way (but not the only way) to demonstrate that you've met my objective to communicate about the content. When someone asks a question or makes an insightful comment in class, the entire class benefits, and we all learn more deeply for it. I wish I could award course credit for that, but it's not really practical. I also think it's too subjective. In the past, I've relied on iClicker to take attendance (a poor but easy and objective indicator of engagement), but it's becoming increasingly unreliable, expensive, and easy to gain. It's also very time consuming to grade and respond to e-mails about. I'd rather spend my time making sure class is worth going to than policing whether students are there. I do really appreciate students who thoughtfully answer questions in class, and they are rewarded with (generally) better grades for less effort, and glowing letters of recommendation from me. So I think it's a fair trade-off.
 
 ### Why don't you record your lectures?
 
-It makes me and other students uncomfortable to be monitored like that. It makes me feel stuck to the podium. The tech glitches a lot. It makes class a worse experience. It makes students less likely to come to class or be engaged during class, if they know a recording is being made. The AEC works with students to assess and determine accommodations for those who need them, and they do a really great job. When students need them (temporarily due to injury or permanently), they can get accommodations to record audio of my lectures or a peer note taker.
+I don't record lectures because it makes me and other students uncomfortable to be monitored like that. The tech glitches a lot, and it makes in-person class a worse experience. It makes students less likely to come to class or be engaged during class if they know a recording is being made. The AEC works with students to assess and determine accommodations for those who need them. When students need them (temporarily due to injury or permanently), they can get accommodations to record audio of my lectures or a peer note taker. 
 
 ### Why do you only assess with homework and exams (not projects)?
 
@@ -117,13 +112,10 @@ Projects can be really fun, but they can also be extremely frustrating and daunt
 
 ## Personal Questions
 
-### Do you have any hobbies?
-
-No. I'm super lame. I mostly just go to the dog park, cook, and answer e-mails.
 
 ### What breed is your dog?
 
-Zucchini is a 6-year-old "lab-mix". Maybe some Chihuahua or Dachshund (she's VERY long). Absolutely no idea beyond that. I have not given her a DNA test.
+Zucchini is a 6-year-old "lab-mix". Maybe some Chihuahua or Dachshund (she's VERY long).  Absolutely no idea beyond that. I have not given her a DNA test. I adopted her when she was 3 from the [Rawley Project](https://www.therawleyproject.org/) out in Bend.
 
 ### Don't you have a cat too? You never talk about her.
 
@@ -137,10 +129,10 @@ It's called Crimson Text. It's a google font that you can download [here]( https
 
 I want you to know I'm not mad at you. No it's fine you didn't turn in your work! 
 
+### What do you like to do outside of work?
 
-### Where do you get your fun shirts?
-I get most (not all) of my fun teaching shirts from [Wildfang](https://www.wildfang.com/products/the-essential-leaf-ss-button-up). Obviously I have other shirts but these are the ones students always comment on.
+I mostly enjoy "productive hobbies" like cooking, exercising, and building things, but I also enjoy things like Jigsaw puzzles, video games (mostly farming simulation games lol), and watching psychologically interesting true crime documentaries. 
 
-### What is that note taking device that you have?
+### What was your graduate research about?
 
-It's a [reMarkable](https://remarkable.com/products/remarkable-2). They are really pricey, but I generally recommend using devices that do not connect to the internet whenever possible. 
+I studied moral person perception, mainly thinking about how we make assumptions that someone has unobservable or unobserved immoral characteristics. If you're interested, you can read my dissertation [here](https://scholarsbank.uoregon.edu/items/925ce272-b0df-4e1f-b421-c4edb9d1cef0).
